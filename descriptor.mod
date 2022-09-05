@@ -6,5 +6,7 @@ tags={
 	"National Focuses"
 	"Map"
 }
+replace_path="common/countries"
+replace_path="common/national_focus"
 name="Trotsky's Trouble"
 supported_version="1.11.13"
