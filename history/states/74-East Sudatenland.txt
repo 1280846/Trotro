@@ -12,7 +12,7 @@ state=
 		victory_points = {
 			3583 5
 		}
-		owner = GER
+		owner = AUS
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
@@ -27,7 +27,7 @@ state=
 		}
 	}
 	provinces= {
-		421 3414 3583 6485
+		421 3414 3583 6485 9567
  	}
 
 	local_supplies=2.0 
