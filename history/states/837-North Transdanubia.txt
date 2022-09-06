@@ -3,7 +3,7 @@ state={
 	name="North Transdanubia"
 	
 	history={
-		owner = AUS
+		owner = HUN
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

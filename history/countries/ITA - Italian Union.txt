@@ -322,9 +322,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 22
-	fascism = 76
-	communism = 2
+	democratic = 20
+	fascism = 20
+	communism = 60
 }
 
 recruit_character = ITA_palmiro_togliatti
