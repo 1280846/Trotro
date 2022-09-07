@@ -18,7 +18,6 @@ state={
 			dockyard = 3
 			arms_factory = 1
 			fuel_silo = 1
-			air_base = 10
 			
 			11834 = {
 				naval_base = 3
@@ -40,7 +39,7 @@ state={
 	}
 
 	provinces={
-		958 3762 11834 11849 11875 
+		911 956 958 3762 3928 3961 6975 9736 11834 11849 11875 
 	}
 	manpower=2020400
 	buildings_max_level_factor=1.000

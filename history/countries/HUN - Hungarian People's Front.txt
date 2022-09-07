@@ -204,15 +204,16 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = communism
 	last_election = "1935.3.31"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 25
-	fascism = 31
-	neutrality = 44
+	democratic = 10
+	fascism = 5
+	communism = 60
+	neutrality = 25
 }
 
 #Start Horty as neutral if DOD

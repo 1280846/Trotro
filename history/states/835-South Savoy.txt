@@ -16,14 +16,11 @@ state={
 		}
 		add_core_of = FRA
 		victory_points = {
-			911 1 
-		}
-		victory_points = {
 			9909 5 
 		}
 	}
 	provinces={
-		911 956 3928 3959 3961 6975 9909 
+		3959 9909
 	}
 	manpower=800000
 	buildings_max_level_factor=1.000
