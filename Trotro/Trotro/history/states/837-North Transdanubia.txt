@@ -1,0 +1,26 @@
+state={
+	id=837
+	name="North Transdanubia"
+	
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			
+			}
+			victory_points = {
+			6720 5
+		}
+			add_core_of = HUN
+			add_core_of = AUS
+		}
+	provinces={
+		686 701 3683 6720 9676 11627 11663 
+	}
+	manpower=1147530
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
