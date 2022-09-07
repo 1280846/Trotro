@@ -136,67 +136,6 @@ if = {
 	add_ideas = MTG_naval_treaty_adherent
 }
 
-# DIPLOMACY / WAR 36
-if = {
-	limit = {
-		has_start_date < 1936.01.02
-	}
-
-	declare_war_on = {
-		target = ETH
-		type = annex_everything
-	}
-	give_guarantee = ALB
-}
-
-1939.1.1 = {
-
-	add_political_power = 1198
-	add_command_power = 100
-	
-	#white_peace = ETH
-	if = {
-		limit = {
-			has_dlc = "Man the Guns"
-		}
-		remove_ideas = MTG_naval_treaty_adherent
-	}
-	#adding ministers
-	add_ideas = {
-		ITA_giovanni_marinelli
-		ITA_giacomo_acerbo
-		emilio_de_bono
-		vittorio_ambrosio
-		fiat
-		beretta
-
-		#laws
-		partial_economic_mobilisation
-		extensive_conscription
-	}
-
-	complete_national_focus = ITA_ethiopian_war_logistics
-	complete_national_focus = ITA_industrial_effort
-	complete_national_focus = ITA_industrial_effort_2
-	complete_national_focus = ITA_victoryinETH
-	unlock_national_focus = ITA_slovenia_dalmatia_claims
-	unlock_national_focus = ITA_albania_war_goal
-	complete_national_focus = ITA_light_ship_effort
-	complete_national_focus = ITA_escort_effort
-	complete_national_focus = ITA_submarine_effort
-	complete_national_focus = ITA_bulgaria_friend
-	complete_national_focus = ITA_pact_of_steel
-
-	complete_national_focus = ITA_army_primacy
-	complete_national_focus = ITA_mare_nostrum
-	unlock_national_focus = ITA_modernized_artillery
-	complete_national_focus = ITA_air_innovation
-	complete_national_focus = ITA_modernized_army
-	complete_national_focus = ITA_fortification_effort
-	complete_national_focus = ITA_extra_tech_slot
-	complete_national_focus = ITA_special_forces
-	complete_national_focus = ITA_capital_ships
-
 	#Simulate Claims on Yugoslavia focus effects
 	add_state_claim = 102
 	add_state_claim = 103
@@ -316,7 +255,7 @@ if = {
 set_convoys = 200
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = communism
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
