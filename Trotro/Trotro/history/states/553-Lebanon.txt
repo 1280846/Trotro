@@ -7,7 +7,11 @@ state={
 	state_category = town
 
 	history={
+<<<<<<< Updated upstream
 		owner = TUR
+=======
+		owner = FRA
+>>>>>>> Stashed changes
 		victory_points = {
 			792 5 
 		}

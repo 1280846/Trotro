@@ -4,7 +4,11 @@ state={
 	name="STATE_677"
 
 	history={
+<<<<<<< Updated upstream
 		owner = TUR
+=======
+		owner = FRA
+>>>>>>> Stashed changes
 		victory_points = {
 			12473 3 
 		}
