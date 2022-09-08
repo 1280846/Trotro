@@ -1,6 +1,20 @@
-characters=
+characters={
+    ITA_benito_mussolini={
+		name=ITA_benito_mussolini
+		portraits={
+			civilian={
+				large=GFX_portrait_ITA_benito_mussolini
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	
     ITA_palmiro_togliatti={
-		name=ITA_palmiro_togliatti
+		name="Palmiro Togliatti"
 		portraits={
 			civilian={
 				large="GFX_portrait_ita_palmiro_togliatti"
@@ -11,7 +25,7 @@ characters=
 			expire="1965.1.1.1"
 			id=-1
 		}
-	}
+	}  
 
 	ITA_ferruccio_parri={
 		name=ITA_ferruccio_parri
@@ -41,19 +55,6 @@ characters=
 		}
 	}
 
-	ITA_benito_mussolini={
-		name=ITA_benito_mussolini
-		portraits={
-			civilian={
-				large=GFX_portrait_ITA_benito_mussolini
-			}
-		}
-		country_leader={
-			ideology=fascism_ideology
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
 	ITA_pietro_badoglio={
 		name=ITA_pietro_badoglio
 		portraits={

@@ -8,5 +8,8 @@ tags={
 }
 replace_path="common/countries"
 replace_path="common/national_focus"
+replace_path="common/ai_strategy"
+replace_path="common/characters"
+replace_path="common/ai_strategy_plans"
 name="Trotsky's Trouble"
 supported_version="1.11.13"
